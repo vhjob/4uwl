@@ -22,6 +22,7 @@ No! I want to live! There are still too many things I don't own! It doesn't look
 1. Guards! Bring me the forms I need to fill out to have her taken away!
 2. Have you ever tried just turning off the TV, sitting down with your children, and hitting them?
 3. You, a bobsleder!? That I'd like to see!
+4. JoJoBa
 
 ### Daylight and everything.
 
@@ -40,6 +41,8 @@ That's right, baby. I ain't your loverboy Flexo, the guy you love so much. You e
 That's a popular name today. Little "e", big "B"? Hey, whatcha watching? A sexy mistake. A true inspiration for the children. Shut up and get to the point!
 
 Ven ve voke up, ve had zese wodies. Oh, all right, I am. But if anything happens to me, tell them I died robbing some old man. So, how 'bout them Knicks? Oh Leela! You're the only person I could turn to; you're the only person who ever loved me.
+
+
 
 Shut up and get to the point! Take me to your leader! I can explain. It's very valuable. You guys realize you live in a sewer, right?
 
