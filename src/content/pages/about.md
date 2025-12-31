@@ -3,7 +3,7 @@ template: about-page
 slug: /about
 title: About Foundation
 ---
-![](/assets/screenbozons.webp)
+![Bozon fired universe](/assets/screenbozons.jpg)
 
 Thank you! Now say "nuclear wessels"! No! Don't jump! A sexy mistake. Anyone who laughs is a communist!
 
