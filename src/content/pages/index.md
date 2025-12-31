@@ -1,7 +1,7 @@
 ---
 template: index-page
 slug: /
-title: Wyatt Morriss
+title: My fantasy worlds
 tagline: Graphic Designer
 featuredImage: /assets/screens.webp
 cta:
