@@ -8,5 +8,6 @@ cta:
   ctaText: Know more
   ctaLink: /about
 ---
+This is my Personal blog. My fantasy worlds. The power of thought creates galaxies. The power of words fills them with meaning. I respond to the name of the *Author*
 
-He is a award winning gaming graphic designer, based in sunny side of California. Working as Principal designer at Bethesda
+
