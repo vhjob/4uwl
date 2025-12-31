@@ -2,7 +2,7 @@
 template: index-page
 slug: /
 title: My fantasy worlds
-tagline: Graphic Designer
+tagline: At first there was a thought
 featuredImage: /assets/screens.webp
 cta:
   ctaText: Know more
